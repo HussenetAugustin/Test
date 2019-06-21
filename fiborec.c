@@ -11,5 +11,5 @@ int main(){
 	}
 
 	int x=f(15);
-	printf("%d\n",x)
+	printf("%d\n",x);
 }
