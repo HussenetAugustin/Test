@@ -1,5 +1,5 @@
 #include<stdio.h>
 
-printf("hello world");
-printf("\nCa va?");
+printf("\nCa va?,\n");
+printf("tranquille et toi ?")
 /* Sal */
